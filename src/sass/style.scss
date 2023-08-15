@@ -287,11 +287,10 @@ p {
 
   &__header {
     color: $color-neutral-700;
-    font-size: $fs-31;
+    font-size: $fs-25;
     font-weight: $fw-700;
-    line-height: 2;
     border-radius: $s-4;
-    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+    line-height: 1.5;
   }
 }
 
@@ -318,14 +317,21 @@ p {
 
   &__title {
     color: $color-neutral-900;
-    font-size: $fs-25;
+    font-size: $fs-20;
     font-weight: $fw-600;
+    line-height: 1.5;
   }
 
   &__subtitle {
     color: $color-neutral-900;
-    font-size: $fs-20;
+    font-size: $fs-16;
     font-weight: $fw-600;
+    line-height: 1.5;
+  }
+
+  &__rating {
+    color: $color-primary;
+    font-size: $fs-12;
   }
 
   &__img {
