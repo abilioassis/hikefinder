@@ -60,7 +60,6 @@ body {
   color: $color-neutral-600;
   background: $color-neutral-100;
   font-family: $ff-inter;
-  overflow-y: hidden;
 }
 
 img,
@@ -292,6 +291,23 @@ p {
     font-weight: $fw-700;
     border-radius: $s-4;
     line-height: 1.5;
+  }
+
+  &__section {
+    @media (min-width: $bp-small) {
+      display: flex;
+    }
+  }
+
+  &__wrapper {
+  }
+
+  &__map {
+    display: none;
+
+    @media (min-width: $bp-small) {
+      display: block;
+    }
   }
 }
 
