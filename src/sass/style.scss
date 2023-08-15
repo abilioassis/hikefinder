@@ -147,6 +147,7 @@ p {
     border-radius: $s-4;
     width: 100%;
     margin-top: $s-4;
+    z-index: 2;
   }
 
   &__item {
