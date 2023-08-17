@@ -8,9 +8,9 @@ This is a solution to the [M6 - HikeFinder](https://scrimba.com/scrim/cBR2mvuW).
 
 ## Links
 
-- Live Site: [Netlify]()
+- Live Site: [Netlify](https://luminous-sable-d5ec11.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/hikefinder)
-- Code review: [Scrimba]()
+- Code review: [Scrimba](https://scrimba.com/scrim/co68e4c4da5dbd7cbdbeb48b5)
 
 ## Built with
 
